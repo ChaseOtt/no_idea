@@ -11,7 +11,10 @@
 [https://fierceexplorer.github.io/no_idea/](https://fierceexplorer.github.io/no_idea/)
 # Project Ideas 
 * website to help students with their choosing of AP classes. 
+We want to create a website that helps students decided what AP classes they want to take. It will display the different AP classes and have different information about the AP classes. The students can filter through the AP classes and take a quiz that will decided what AP classes might be best for them. 
+## Sponsor
 Functions   
 * database of AP Classes 
 * reviews of AP classes 
 * Search bar that filters by interest 
+* quiz to decided what AP classes to take 
