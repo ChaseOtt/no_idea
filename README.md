@@ -6,3 +6,6 @@
 | Simon Brunzell |  asdfadsf | asdfsdf | 
 | Vunsh Mehta | [@vunsh](https://github.com/vunsh) | [Vunsh's Wiki](https://github.com/FierceExplorer/no_idea/wiki/Vunsh's-personal-wiki) |
 | Zach Ye |  asdasdf | asdfasdf | 
+
+
+# Project Ideas 
