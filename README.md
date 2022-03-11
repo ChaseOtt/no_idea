@@ -10,3 +10,8 @@
 ## Jekyll Page 
 [https://fierceexplorer.github.io/no_idea/](https://fierceexplorer.github.io/no_idea/)
 # Project Ideas 
+* website to help students with their choosing of AP classes. 
+Functions   
+* database of AP Classes 
+* reviews of AP classes 
+* Search bar that filters by interest 
