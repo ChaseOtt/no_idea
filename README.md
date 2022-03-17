@@ -5,7 +5,7 @@
 | Chase Ott | [@ChaseOtt](https://github.com/ChaseOtt)| [Chase's Wiki](https://github.com/FierceExplorer/no_idea/wiki/Chase-Ott-Personal-Wiki) | Github Admin
 | Simon Brunzell |  asdfadsf | asdfsdf | 
 | Vunsh Mehta | [@vunsh](https://github.com/vunsh) | [Vunsh's Wiki](https://github.com/FierceExplorer/no_idea/wiki/Vunsh's-personal-wiki) |
-| Zach Ye |  asdasdf | asdfasdf | 
+| Zach Ye |  [@zachye111](https://github.com/zachye111)| asdfasdf | 
 
 ## Jekyll Page 
 [https://fierceexplorer.github.io/no_idea/](https://fierceexplorer.github.io/no_idea/)
