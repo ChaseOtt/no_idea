@@ -3,9 +3,9 @@
 | :--- | :--- | :--- | :--- | 
 | Ethan Guo  | [@FierceExplorer](https://github.com/FierceExplorer) | [Ethan's Wiki](https://github.com/FierceExplorer/no_idea/wiki/Ethan-Guo-Personal-Wiki) | Technical Officer |
 | Chase Ott | [@ChaseOtt](https://github.com/ChaseOtt)| [Chase's Wiki](https://github.com/FierceExplorer/no_idea/wiki/Chase-Ott-Personal-Wiki) | Github Admin
-| Simon Brunzell |  asdfadsf | asdfsdf | Deployment Manager
-| Vunsh Mehta | [@vunsh](https://github.com/vunsh) | [Vunsh's Wiki](https://github.com/FierceExplorer/no_idea/wiki/Vunsh's-personal-wiki) | Primary Designer
-| Zach Ye |  [@zachye111](https://github.com/zachye111)| asdfasdf | scrum master
+| Simon Brunzell |  asdfadsf | asdfsdf | Primary Designer
+| Vunsh Mehta | [@vunsh](https://github.com/vunsh) | [Vunsh's Wiki](https://github.com/FierceExplorer/no_idea/wiki/Vunsh's-personal-wiki) | Deployment Manager
+| Zach Ye |  [@zachye111](https://github.com/zachye111)| asdfasdf | Scrum Master
 
 ## Jekyll Page 
 [https://fierceexplorer.github.io/no_idea/](https://fierceexplorer.github.io/no_idea/)
