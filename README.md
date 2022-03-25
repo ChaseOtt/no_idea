@@ -15,14 +15,14 @@ We want to create a website that helps students decided what AP classes they wan
 ## Sponsor
 - Men's Vollyball 
    * website for men's volleyball sports team 
-
-- Counselor?   
-   * counselors will be able to give it to students in order to give them a basics to what AP classes to take or what each AP class is. 
-Functions   
-* database of AP Classes 
-* reviews of AP classes 
-* Search bar that filters by interest 
-* quiz to decided what AP classes to take 
+Functions 
+- Database of players 
+- calender or schedule 
+- Volleyball stats 
+- Player profiles 
+- School Records 
+- Contacts 
+- Volleyabll Quiz? 
 
 ## PII concerns
 
