@@ -26,7 +26,7 @@ Functions
 
 ## PII concerns
 
-- Are website will not display personal information of players or users. 
+- Our website will not display personal information of players or users. 
 - There is not a lot of concerns, possible email or address exposure. 
 
 ## hosting plan
