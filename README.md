@@ -11,7 +11,8 @@
 [https://fierceexplorer.github.io/no_idea/](https://fierceexplorer.github.io/no_idea/)
 # Project Ideas 
 * website to help students with their choosing of AP classes. 
-We want to create a website that helps students decided what AP classes they want to take. It will display the different AP classes and have different information about the AP classes. The students can filter through the AP classes and take a quiz that will decided what AP classes might be best for them. 
+We want to create a website that helps students decided what AP classes they want to take. It will display the different AP classes and have different information about the AP classes. The students can filter through the AP classes and take a quiz that will decided what AP classes might be best for them.          
+* our project has been changed. Now we will make a wesbite for the boy's volleyball team sport section. Our sponsor will be them. The wesbite is basically a home page for the volleyball page very similar to the Del Norte Basketball website. 
 ## Sponsor
 - Men's Vollyball 
    * website for men's volleyball sports team 
